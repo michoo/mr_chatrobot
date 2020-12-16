@@ -1,0 +1,496 @@
+categories:
+- mr robot
+- elliot
+conversations:
+- - I'm a mercenary.
+  - I don't play fair.
+- - I would rather see you lose than win myself.
+  - The Deus Group.
+- - We can take them all down.
+  - Just need their phone numbers.
+- - Get them all in a room together.
+  - I'm resigning.
+- - We've been waiting for Elliot Alderson's next move, and this could be it.
+  - We will not wait for them to make a mistake.
+- - Arrange a Deus Group meeting to confirm a successor Wellick.
+  - Make sure you take care of Whiterose.
+- - We got the access we needed to transfer the money from the bank's site.
+  - We can rob them blind.
+- - This is all my fault.
+  - You want to help me?
+- - Go find Elliot, and take them down.
+  - I own everything.
+- - Every bribe, blackmail, extortion everything will go public.
+  - Mr. Alderson, he's too much of a liability.
+- - If we kill him, his shipping hack dies with him.
+  - It's time he learns we're on the same side.
+- - See?
+  - They all came back.
+- - Everyone's okay again.
+  - Angela, whatever Whiterose told you is a lie.
+- - I know it's possible.
+  - I've seen it.
+- - I don't know if I can go through with the hack anymore.
+  - Look at me.
+- - I am not the one Darlene talked to.
+  - You shouldn't be sitting there.
+- - That's not your seat.
+  - Why?
+- - They're not ready yet, so we need to wait.
+  - How is he?
+- - It's not going to happen today.
+  - There's no point in waiting here now.
+- - We aren't going anywhere.
+  - You know where he is.
+- - You need to bring him here.
+  - It's not that simple.
+- - We're gonna have to help him through this.
+  - Mom.
+- - Maybe we should just tell him now About everything.
+  - Then Elliot will be okay.
+- - Right?
+  - I'm telling you.
+- - He's not ready.
+  - When will he be ready?
+- - You've let this go on far too long.
+  - It's a little more complicated than that.
+- - I didn't know everything that was happening.
+  - That's a lie.
+- - You've been part of these shenanigans from the beginning.
+  - You encourage it.
+- - Okay, okay.
+  - Just stop.
+- - Yes, I'll admit it.
+  - I did.
+- - I never thought he'd take things this far.
+  - There's nothing I can do now.
+- - Just talk to him.
+  - We have to finish his mission.
+- - Once the hack is done, maybe then I can get through to him.
+  - And how are you gonna do that?
+- - I'm gonna show him what he did.
+  - And if it doesn't work?
+- - We can't go on like this.
+  - And that poor boy.
+- - We may lose him forever.
+  - For God's sake, he hasn't woken up since That's not true.
+- - Darlene.
+  - She said they talked two months ago.
+- - He woke up for her Which means she might be the one who could help us.
+  - Great.
+- - You decided to show.
+  - I know.
+- - You weren't expecting me.
+  - But I'm here for Elliot, same as you.
+- - What can you expect after what happened?
+  - Life throws you an error code like that, you don't have the luxury of a fucking pop-up explanation.
+- - So what are you supposed to do?
+  - Move on without answers, or stay down and drive yourself crazy with questions?
+- - That's where Elliot is mired in conflict.
+  - And that's why I'm here.
+- - How we doing?
+  - Got line of sight on the IMSI catcher to the front door.
+- - Deus members should be arriving soon.
+  - Where the fuck have you been?
+- - Got held up.
+  - What kind of answer is that?
+- - You had me worried.
+  - I told you the Dark Army is looking for you.
+- - The day didn't go exactly as planned.
+  - Cut me some slack, okay?
+- - Things went a little sideways.
+  - Oh.
+- - Really?
+  - Is that so?
+- - Things went a little sideways for you, huh?
+  - You want to hear about the fucking night I've had?
+- - This isn't a pissing contest, sweetheart.
+  - Let's just get back to work.
+- - What the fuck are you doing?
+  - Why are you here?
+- - Where is he?
+  - You don't want him here right now.
+- - Why the fuck not?
+  - He just can't.
+- - Not now.
+  - What happened to him?
+- - He'll be fine.
+  - He just needs some time.
+- - I don't trust you.
+  - I don't need you to trust me.
+- - I just need you to help me pull this off.
+  - Tell me what's going on, or I'm walking.
+- - I can't.
+  - He needs to be the one to tell you when he's ready.
+- - What the fuck are you doing here?
+  - Do you realize how risky this is?
+- - What if someone saw you?
+  - She's with me.
+- - Out with it.
+  - Why are you here?
+- - You're supposed to be across the street with your Deus pals.
+  - There's one last thing I need from you.
+- - Well, it's a little late in the game to be making demands.
+  - It's it's not a demand.
+- - It's a favor.
+  - Given the danger you've put us all in just by being here, I hope it's worth it.
+- - It is.
+  - What's this?
+- - I want you to destroy Whiterose's machine.
+  - Everything you need to know about her project, it's on here.
+- - Promise me.
+  - After tonight, she'll be ruined.
+- - Why is this important to you?
+  - Because it was important to Angela.
+- - It's what she wanted.
+  - Okay.
+- - I promise.
+  - Remember, you gotta keep everyone there until we grab their phone numbers.
+- - Don't let anyone leave, especially Whiterose.
+  - What was that about?
+- - Hey.
+  - What the hell does Price know about Angela?
+- - What is going on?
+  - I'll fill you in, but right now, we gotta get started.
+- - We're already behind.
+  - In order to rob the Deus Group blind, we need to get access to transfer funds from Cyprus National Bank.
+- - To do that, we need every Deus asshole's phone number.
+  - Why?
+- - Because Darlene can then match each of those phone numbers to its corresponding Cyprus National Bank account number and initiate a transfer.
+  - Once she initiates the transfer, it'll trigger a security 2FA code that'll be texted to every Deus dickhead's phone.
+- - Then Darlene will run a script to automatically grab those 2FA codes, and transfer all their money before they have time to stop it.
+  - So, yeah, I'm worried.
+- - For what, though, I'm not sure.
+  - But whatever it is It's coming.
+- - I can't believe Angela never told me Price was her father.
+  - Maybe she didn't know.
+- - I miss her.
+  - Darlene, I No, I don't want to talk about it.
+- - I just I just wanted to say that.
+  - Okay.
+- - Something's not right.
+  - No one's gone in or out of that building other than Price.
+- - Wait, you think they're onto us?
+  - I don't know.
+- - I see I'm the first to arrive.
+  - Technically, I was first.
+- - You want to tell me what's going on?
+  - I thought we'd start with a drink.
+- - I'm an old man, Zhang.
+  - I gave up on foreplay long ago.
+- - Let's just skip ahead to the part where you try to fuck me.
+  - If they are onto us, if the Deus Group doesn't show, everything's we've been working on will be a big fucking fail.
+- - If Elliot were here, what would he do?
+  - He'd look for abnormalities, incompatibilities, anything that isn't adding up, any conflicts.
+- - What are you doing?
+  - Looking.
+- - For?
+  - I don't know yet.
+- - Elliot saved an image of Tyrell's phone, swiped all his credentials.
+  - If Whiterose thought something was up, she would've told the other members, including the guy she was having the meeting for.
+- - All you had to do was nothing, just sit idly by and wait for the new year to arrive, but you couldn't leave well enough alone.
+  - I wanted to let you live into retirement I planned on it as a gift of sorts.
+- - I guess you can say I always get swept up when it comes to the holidays.
+  - But then you had to be naughty.
+- - Come on, Zhang.
+  - You know I've never been the nice type.
+- - Let me drive.
+  - Maybe his calendar.
+- - After your abrupt resignation and Mr. Alderson's curious disappearance, it wasn't hard to figure out that you two were working together.
+  - Tell me Mr. Alderson's plan, and these gentlemen will take you home and inject you with maitotoxin.
+- - You will die in your sleep.
+  - The papers will say you passed from heart failure.
+- - Sad, but painless.
+  - Or, we could go the other way.
+- - You're well aware of our methods.
+  - So you canceled the Deus Group meeting based on this half-cocked conspiracy theory of yours.
+- - This last-minute change will not sit well with the others.
+  - Downtown near Wall Street.
+- - Hey, are you hearing this?
+  - Let's move.
+- - We gotta go.
+  - Do-or-die time.
+- - They're probably already inside, which means we'll have to find a way in to get a line of sight.
+  - Price didn't know about the venue change.
+- - So what?
+  - Why didn't they tell him?
+- - I don't know.
+  - He's persona non grata on his way out.
+- - Who gives a shit?
+  - Why the heavy security detail?
+- - Price is one guy.
+  - If they wanted to get rid of him, they don't need a team of Dark Army soldiers to do it.
+- - They're not there to kill Price.
+  - They're there to protect someone.
+- - The meeting is taking place as we speak.
+  - I'm sure Mr. Wellick, the new CEO of E Corp, is impressing everyone with his smile.
+- - Unfortunately, I'll be uncharacteristically late for the gathering, but I'm sure they'll understand.
+  - Will they?
+- - Hmm.
+  - I'd expect mutiny when they realize that Tyrell Wellick, your guest of honor and the sole purpose for the meeting, will not be in attendance.
+- - I'm gonna stay.
+  - What?
+- - You have the exploit to verify the phone numbers ready to go.
+  - No, we can't split up.
+- - What if something else goes wrong with the plan?
+  - You know, it just occurred to me.
+- - We've never gotten drunk together, have we?
+  - I think this might be a good night to start.
+- - What do you think?
+  - The plan is pointless if we don't get Whiterose, too.
+- - She's gotta be in there.
+  - I have to stay.
+- - That makes no sense.
+  - We only have one IMSI capture.
+- - We need to do this together.
+  - We don't have a choice.
+- - Now go.
+  - Mr. Wellick is nowhere to be found.
+- - We're still searching the tri-state area A waste of time.
+  - Stop.
+- - Tell them all to stop.
+  - Is this part of your plan?
+- - Mr. Wellick's mysterious disappearance?
+  - What did you do to him?
+- - Truthfully I have no idea where Wellick is.
+  - He may be dead.
+- - Mm.
+  - No, no, no.
+- - Now I think of it, he did mention something about wanting to travel the great southwest in a '65 El Camino convertible, wind in his hair He's beaten you!
+  - You lost today.
+- - Doesn't mean we can't fight back tomorrow, but right now, we have to leave and warn the Deus Group before this gets worse.
+  - We are not going anywhere.
+- - If you won't listen to reason, then I'm done.
+  - Whoa.
+- - It's bad management when your best employees either walk off the job, or blow their brains out.
+  - fuck am I gonna get in there?
+- - Perimeter is secure.
+  - Make sure these doors stay locked the rest of the evening.
+- - Goddamn.
+  - Christmas Day?
+- - This better be good.
+  - Yeah, he's a dickwad, but a total and complete shutdown of Muslims entering the United States That runaround for tonight's location details Iraq's a proper mess.
+- - Deus needs to get its giant dick out of that sand sooner than later.
+  - Rousseff is fucked.
+- - He did it to himself.
+  - Or was that us?
+- - How are you, my friend?
+  - Just came off an 11-hour flight on Christmas Day.
+- - Ah.
+  - My wife is furious.
+- - And my girlfriend?
+  - She won't return my phone calls.
+- - Whatever Zhang has planned better be good.
+  - Couldn't agree more.
+- - Evening, gentlemen.
+  - Hors d'oeuvres?
+- - Speaking of, where is our host?
+  - Back inside.
+- - This entrance is off limits tonight.
+  - Go.
+- - There's no fucking way.
+  - Well?
+- - Who is it?
+  - Hello?
+- - That sure as hell doesn't sound like Price.
+  - Mr.
+- - Alderson.
+  - It's good to hear your voice.
+- - I was hoping we could talk in person.
+  - You once told me that we'd never see each other again.
+- - What makes you want to see me now?
+  - Call it a change of mind.
+- - A realization.
+  - Nah.
+- - If I'm hearing your voice on the other end of this call, I'm good.
+  - And what does that mean?
+- - You'll know soon enough.
+  - A proposal.
+- - You stop whatever it is you're planning, and I give you information that will prove to be very valuable to you.
+  - You think I'm gonna trust you?
+- - Let me earn your trust by sharing first.
+  - It is about your friend Angela.
+- - What about her?
+  - You see, Elliot You think Angela's dead, but she's not.
+- - You sent me a picture of her dead body, you sick fucking fuck.
+  - And you believe what most people believe?
+- - Only what is right in front of you?
+  - I expected more from you.
+- - You think I'm gonna believe this bullshit?
+  - You killed her.
+- - Angela's dead.
+  - No, Elliot.
+- - Angela's alive.
+  - And if you allow me, I can take you to her.
+- - Would you like that, Elliot?
+  - Would you like to see Angela again?
+- - To hear her voice?
+  - To hold her hand?
+- - Elliot, are you there?
+  - Yes.
+- - I know you have regrets, Elliot, and pain.
+  - I know there are things in your life you wish were different, just the same as Angela, and I can show you a way that you can make it all go away, just as I did for her.
+- - You can reset everything and live in the world you deserve, a world without all the pain you're carrying, without your past, without your regrets.
+  - Please, Elliot.
+- - Let me show you the world that I showed your closest friend.
+  - I saw what you did to her before you killed her.
+- - That wasn't Angela.
+  - You used her.
+- - You turned her into someone else.
+  - Then don't take my word for it.
+- - Ask her yourself.
+  - Elliot, we don't have to fight like this anymore.
+- - Let's finally make peace with each other, as we were always meant to do.
+  - Let go of the anger and the hatred you've built up towards me.
+- - Understand I've only wished to help.
+  - Here's the thing.
+- - I don't need help right now.
+  - You do.
+- - Good evening, people of Earth.
+  - We are fsociety.
+- - We have risen from the ashes to bring you a Christmas miracle, a miracle that will finally reveal our true nemesis.
+  - The secret club running the world is the Deus Group, a clandestine collection of the world's richest and most powerful people.
+- - Deus Group, we know you, and we know what you do.
+  - And tonight, the whole world will learn about you.
+- - Most of you watching have never heard the name Deus Group.
+  - That's because they've worked hard to keep it that way.
+- - To begin to understand their reach, to see the evil crimes they're responsible for, click on the link below to download all their private files.
+  - And if you'd like to meet the despicable individuals who have co-opted your lives for profit, come meet them now in person while they wine and dine at Cipriani.
+- - I am sure they'd appreciate the visit.
+  - Deus Group, you have been owned.
+- - fsociety and the world will cheer as we watch your black hearts stop beating.
+  - This is not a warning.
+- - This is the beginning of the end.
+  - We are fsociety.
+- - Hey.
+  - Did you see the video?
+- - Yeah.
+  - Hopefully, that'll do the trick to smoke these fuckers out.
+- - Did you find Whiterose?
+  - Yeah.
+- - I talked to her.
+  - You what?
+- - Jesus Christ.
+  - You were supposed to hack her phone, not call it.
+- - It was only for a second.
+  - But it was Price's phone, so we still need to get Whiterose's number.
+- - Are you okay?
+  - I don't know.
+- - I don't know anymore.
+  - Hey, Elliot?
+- - I'm glad you're back.
+  - I gotta go.
+- - What happened?
+  - There's a cell tower.
+- - If I can see traffic on that tower No, I mean We can't get past her security and into the hotel.
+  - We need her phone number.
+- - Hey.
+  - Are you gonna be okay?
+- - Only way this works is if we hit their accounts at the same time.
+  - If the other members get the 2FA codes first, they'll alert Whiterose.
+- - Just keep them in your line of sight.
+  - I'll let you know when I've got it.
+- - Sergey, you have to trust me.
+  - We will get through this.
+- - Everything will be all right.
+  - Oh, don't listen to that Mason.
+- - The man is an absolute buffoon.
+  - No, no, don't leave.
+- - Don't go outside.
+  - Tell everyone to remain, Sergey.
+- - Sergey?
+  - Hello?
+- - Hello?
+  - So that's it.
+- - So that's your big move!
+  - You think that I can't survive being doxxed?
+- - I have no idea.
+  - I'm as curious as you.
+- - Hello?
+  - Come on!
+- - I can't do anything about it.
+  - Look.
+- - It's not working.
+  - Obviously, it's not working.
+- - shit.
+  - Private event tonight.
+- - You can't be here.
+  - Everyone, back it up.
+- - A short time ago, fsociety resurfaced with a new video, and while the contents of that video remain largely unconfirmed, it focuses entirely on an international investment firm, the Deus Group.
+  - It's a collection of powerful men whom fsociety claims to be guilty of international crimes, and as you can see behind me, onlookers have gathered with hopes of catching a glimpse of any Deus Group members.
+- - All this over a little pipsqueak in a hoodie.
+  - Where are we at, kiddo?
+- - I've got a bunch of numbers.
+  - I just can't tell if any of them are hers.
+- - Truth be told, I never liked Mr. Alderson his anxious demeanor, his juvenile anger.
+  - But he does bring something to the table well, for me.
+- - Mr. Alderson is the only person I believe actually able to hurt you Truly hurt you.
+  - And clearly, you believe it, too.
+- - Come on.
+  - Why do we have to cut these things so goddamn close?
+- - What are you doing?
+  - Peaceful out here.
+- - Cold winter air.
+  - Are you really going to make me force you into the car?
+- - You know, I almost let myself believe you When you said Angela was still alive.
+  - I know what kind of conman you are, how you operate.
+- - Even though I saw your men drag her dead body away, I still wanted to believe what you were saying.
+  - When you spoke to Mr. Alderson, I felt the power of your promise.
+- - And all I could think is, well maybe that's what my daughter thought when you came to her.
+  - The desperation to have all her pain go away, to have her past rewritten and that's why it works, right?
+- - The one thing every person has regret.
+  - You weaponize that, and then you use that weapon against them to destroy them.
+- - But here's the thing I've realized as of late.
+  - With Angela didn't work.
+- - Angela lives on in the lives of the people who love her.
+  - And that love that love fuels their unwavering resolve to turn the tables to destroy you.
+- - You just remember, Zhang.
+  - You did all this to yourself.
+- - You should take your own advice, Phillip.
+  - Accept your truth.
+- - It's over.
+  - Yeah.
+- - Yes.
+  - I suppose it is.
+- - It happened.
+  - It actually happened.
+- - What?
+  - Something wrong, old sport?
+- - What is this?
+  - Well, if it's what I think it is, we're all broke.
+- - No.
+  - That's impossible.
+- - Apparently not.
+  - Where is it, Phillip?
+- - Where is my fucking money?
+  - Gone.
+- - I warned you.
+  - I told you long ago.
+- - I'm a mercenary.
+  - I'd rather see you lose than win myself.
+- - That can't be.
+  - Finally.
+- - I found a way to take what's most important to you.
+  - No, no.
+- - Your project, your dream of another world it's as good as dead.
+  - Think of it this way, Zhang.
+- - You didn't lose the game.
+  - You just ran out of time.
+- - And like that Rome falls.
+  - No more Deus Group.
+- - No more top 1% of the top 1%.
+  - No more controlling every piece of our lives.
+- - No more playing God without permission.
+  - We took them down.
+- - All of them.
+  - FBI.
+- - Open the door.
+  - We have a warrant.
+- - Minister Zhang, we have a warrant.
+  - FBI.
+- - Open the door.
+  - Minister Zhang, come out.
+- - We have a warrant for your arrest.
+  - Minister Zhang.
+- - Minister Zhang, we're coming in.
+  - Three, two, one, execute, execute, execute.

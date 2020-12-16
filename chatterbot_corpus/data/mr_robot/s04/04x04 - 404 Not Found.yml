@@ -1,0 +1,532 @@
+categories:
+- mr robot
+- elliot
+conversations:
+- - Everything we did was what they wanted.
+  - I'm a prisoner, just like before.
+- - I'm going after Whiterose.
+  - I'm in.
+- - Give me your phone.
+  - I rigged Signal's API so we could share locations.
+- - You fucked me!
+  - I lost everything because of you.
+- - My son's taken to Denmark, and my wife's dead!
+  - The Dark Army are just hackers.
+- - He turned the gun on himself.
+  - He erased his history.
+- - You work for the Dark Army now.
+  - My whole life is ruined because of you.
+- - Olivia Cortez, she's the Deus Group's only U. S. account manager.
+  - She's our way in.
+- - You wanted to work with me, this is the way it is.
+  - If there's a problem, don't be here when I get back.
+- - I'm resigning as CEO of E Corp.
+  - Call Mr.
+- - Wellick and offer him the CEO position.
+  - That van's been following us since we got off the subway.
+- - Elliot, we're on the inside.
+  - It's time to take them down.
+- - Elliot, I've come with the news we've been waiting for.
+  - They want to make me CEO of E Corp.
+- - Are you hearing me?
+  - The offer came directly from Whiterose.
+- - This is what are you doing?
+  - This is exactly what we've been waiting for.
+- - We're on the inside.
+  - It's time to take them down.
+- - I'm sorry, I've been under a lot of stress.
+  - I didn't mean to snap.
+- - No, uh, I get it.
+  - Okay, uh, here, have a seat.
+- - You want you want water or something?
+  - Let me get you a glass.
+- - There you go.
+  - I'm gonna boot up my computer.
+- - It'll just take a minute.
+  - fuck.
+- - I forgot the install this morning.
+  - Looks like it failed.
+- - I wonder why.
+  - Logs say out of disk space. Just give me a second.
+- - I need to adjust the swap partitions.
+  - That should fix it.
+- - Boot device not found. shit, now my terminal's frozen.
+  - Hard drive might be shot.
+- - You know what, I'm gonna
+  - Oh, fuck.
+- - Get in, check the logs.
+  - If the recording wasn't send back to Dark Army, wipe everything and make sure they can't track the van.
+- - What about him?
+  - He's dead.
+- - To be clear, I am not calling you because we are good.
+  - I am calling because I got into Olivia's Cyprus National Bank Account.
+- - Unfortunately, her access isn't good enough.
+  - I can see all the Deus account numbers, but she's not authorized to transfer anything.
+- - I got lateral access inside the bank's system but hit a wall.
+  - All their authentication goes through a proxy, and everything else on their domain is read-only, which means we are gonna have to break into Virtual Realty and get on their servers.
+- - Since the Deus Group meeting is tomorrow, I'm scouting the place now.
+  - Security is lax with Christmas, so we need to do it ASAP.
+- - Also, can't help but wonder why exactly the fuck you are not answering my calls.
+  - We were supposed to meet at Allsafe, or did you forget again?
+- - Dick.
+  - Okay, you know what?
+- - I'm coming to your apartment, and when I get there, I expect you to have heard this message and already be prepping for Virtual Realty.
+  - Oh, and when you do get this voicemail, keep this in mind fuck you!
+- - You are a fucking selfish dickhead of an asshole who is the shittiest brother on Earth!
+  - I don't wanna say I hate you, but I hate you.
+- - I hate you so fucking much.
+  - If I show up at your apartment and you're hanging from the goddamn ceiling by a rope, that's cool.
+- - In fact, that would be my preference.
+  - So in sum, fuck off and die!
+- - To continue your recording, press two.
+  - To delete your recording, press three.
+- - Please re-record your message at the tone.
+  - Hey, Elliot, it's me.
+- - Elliot?
+  - Okay, it looks like the logs were never sent.
+- - So all we gotta do is get rid of the body and the van, and we're good to go, okay?
+  - I'm gonna go pick us up a couple of snow shovels.
+- - We're not here for shovels.
+  - What are we here for?
+- - Go inside, pay for the gas, and grab a lighter.
+  - Oh, Internet's down.
+- - No Ecoin.
+  - $19. 86.
+- - Do I know you?
+  - I don't think so.
+- - You look awfully familiar.
+  - Yeah, sorry, we're kind of in a hurry.
+- - You sure we haven't met before?
+  - Yeah, you must have me mistaken for someone else.
+- - You an actor?
+  - Can you just ring him up?
+- - Wait, were you on Big Brother?
+  - Yeah, that must be it.
+- - I knew it.
+  - I never forget a face.
+- - Keep the change.
+  - Merry Christmas!
+- - Where'd you move the van to?
+  - I didn't move the van.
+- - Hey, hey, hey, what are you doing?
+  - Hey, hey, thief!
+- - Thief, I've called the police.
+  - shit.
+- - Hey, dude, you're straight up trying to steal my car.
+  - It's cool, man.
+- - It's cool.
+  - You don't need to call the cops, okay?
+- - I'm walking away.
+  - No hold on.
+- - You trying to steal my car and walk away.
+  - What's up?
+- - Dude, do you really want to deal with the hassle of calling the cops?
+  - It's just gonna end in an all-nighter for you at the station, followed by a shit ton of paperwork.
+- - Besides, nothing nothing happened.
+  - You busted me, I'm walking away.
+- - No harm, no foul.
+  - Yeah, but I got questions that need answering.
+- - First, have you seen my keys?
+  - No.
+- - That was my only question.
+  - Can I please go now?
+- - Oh, wait, I got another question.
+  - Can you start my car?
+- - Really?
+  - Yeah, I usually use my keys, and I can't seem to find them.
+- - Okay, you're not really planning on driving like this, are you?
+  - Well, I gotta get home.
+- - Dude, you are drunk as shit.
+  - Can't you just call a cab or something?
+- - No, cabs don't go where I'm headed.
+  - Where is that, the North Pole?
+- - No.
+  - It's Upstate.
+- - Foxrock.
+  - What's your name?
+- - Tobias.
+  - Hi, Tobias.
+- - I'm Darlene.
+  - We're friends, right?
+- - Yeah, I'd like that.
+  - Great.
+- - So here's an idea.
+  - I'll drive you home if I can borrow your car afterwards for a quick errand.
+- - You drive a hard bargain, Dolly.
+  - Darlene.
+- - Exactly.
+  - Let's ride!
+- - Oh, guys, I understand, but like I said, Internet's down.
+  - Phone's hooked to the Internet, so that means phone is down too.
+- - We're kind of in the middle of nowhere here.
+  - None of our phones have service.
+- - There's gotta be someplace nearby with cell reception.
+  - Sure, back in town.
+- - What town?
+  - Pike's Hollow.
+- - How do we get there?
+  - It's too far to walk unless you take the shortcut.
+- - But my husband's coming to pick me up in a bit, if you want a ride.
+  - Where's the shortcut?
+- - Got it!
+  - Tyrell Wellick, right?
+- - That's how I know you.
+  - But I never knew you were on Big Brother.
+- - Holy smokes!
+  - I cannot believe you are in my store.
+- - Can I get a selfie?
+  - No, I'm not him.
+- - You have me confused, okay?
+  - The shortcut, how do we get there?
+- - Are you sure you're not Tyrell Wellick?
+  - E Corp fella.
+- - You are the spitting image of him.
+  - Yes, I'm sure.
+- - That's too bad.
+  - Sure like to meet him one day.
+- - Seems like a nice guy.
+  - Jesus fucking Christ, woman!
+- - Where is the shortcut?
+  - How the fuck do we get to town?
+- - Whoa, aren't you friggin' rude?
+  - Directly across the street, you'll see an opening to a trail, and that will take you through the woods for a stretch, but be sure you veer left at the creek.
+- - You'll find yourself in Pike's Hollow in 30 minutes or so.
+  - fucking finally.
+- - Wouldn't hurt you to learn some manners on the walk.
+  - This is the right trail, right?
+- - The one across from the gas station.
+  - There was only one.
+- - Are you sure?
+  - Yeah.
+- - So quiet out here.
+  - Have you ever considered leaving?
+- - What do you mean?
+  - Just walking off, disappearing, leaving the life you're living behind you, all the bullshit, the stress, the pain, everything?
+- - You know, maybe start over where no one knows you and reinvent yourself and forget about all the mistakes you made in this life.
+  - Find some peace.
+- - Some rest.
+  - I think about that.
+- - Don't you?
+  - No.
+- - Any sign of the creek?
+  - Well, maybe it's still up ahead.
+- - Ah.
+  - We've been walking for a while.
+- - We shoulda come across it by now.
+  - How do you know if we should have come across it by now?
+- - Because we've been walking for fucking hours.
+  - That's how.
+- - Don't get mad at me.
+  - I don't know where the goddamn creek is.
+- - You were the one who took off this way.
+  - Unbelievable you're blaming me that we're lost?
+- - I blame you that we're even here.
+  - You said he was dead.
+- - He was.
+  - Well, then how did he drive the van?
+- - I don't fucking know!
+  - All right, all right.
+- - Let's all calm down.
+  - Take it easy.
+- - What was that?
+  - A dog?
+- - Who knows?
+  - We're in the middle of the woods.
+- - Could be anything.
+  - Maybe a coyote.
+- - Or a wolf.
+  - That.
+- - You hear it?
+  - Let's just keep going.
+- - Maybe the creek is up ahead.
+  - She knew my face.
+- - What?
+  - The cashier.
+- - She knew my face.
+  - So what?
+- - That means she can ID me.
+  - You search, you find, all is well.
+- - But what if you search and you don't find?
+  - How long do you look?
+- - Eventually, you've gotta give up, right?
+  - Then what?
+- - That thing you were searching for, what becomes of it?
+  - How could you ever know?
+- - Joey Baby
+  - Don't get crazy Big night tonight?
+- - Uh, no.
+  - I'm not the real Santa.
+- - Yeah.
+  - Sometimes I wish I were.
+- - Sometimes I wish I were I know you've heard it all before So I don't say it anymore Where'd you go there, Tobias?
+  - Oh, just thinking.
+- - Jimmy.
+  - Good guy.
+- - Fell on some tough times.
+  - You know how sometimes the world just seems like it's kicking you down and you can't get up?
+- - Christ, do I ever.
+  - That's Jimmy.
+- - And you know how it is.
+  - Soon you're out in the cold winter night, asking a lot of questions, looking at the world, thinking about what it might be like without you in it.
+- - Do you have to do that?
+  - It's a Christmas song.
+- - It's annoying.
+  - I just got it.
+- - Why you wear that hoodie.
+  - I've never seen you in anything else.
+- - Black hoodie, black jeans, black shoes, always the same.
+  - I've been wondering this whole time, but now I finally get it.
+- - You don't care.
+  - Sure, why not?
+- - Silk tie, $6,000 suit.
+  - I mean, it sounds pathetic to say aloud, but I actually care.
+- - And you know what?
+  - That's why I'm a failure.
+- - My entire life, I've been an outsider, worried what other people think of me, how I can make them happy, because I needed their approval and their acceptance.
+  - But you never cared.
+- - The first day we met, there we were, Allsafe's most important clients roaming through the office, and you couldn't care less.
+  - We're gonna die out here.
+- - Maybe not tonight, but soon.
+  - The Dark Army soldier, he's likely reported back by now.
+- - It's only a matter of time before they find us.
+  - Did you hear that?
+- - If there's traffic, we gotta be close to town.
+  - Hey!
+- - Hey!
+  - Hey!
+- - Hey!
+  - Hey!
+- - Hey!
+  - Jesus Christ!
+- - So what's with the getup Mall Santa?
+  - Salvation Army?
+- - Sloan Kettering.
+  - It's a cancer center.
+- - I do it for the kids.
+  - Dude, that's dope.
+- - You're definitely a better person than me.
+  - So what, the kids served spiked nog?
+- - No, me and some of the other volunteers, we got a little tradition after visiting the hospital.
+  - What's that?
+- - We get drunk.
+  - Nice tradition, I guess.
+- - Yeah, you know the kids, they love when we drop by.
+  - So many smiling faces.
+- - This might be the last time I do it though.
+  - You know, the thing that really gets you?
+- - Some of 'em are so small.
+  - It's almost as if they were just born to die.
+- - Jesus.
+  - No wonder you're plastered.
+- - How else do you get through that?
+  - Well, it was easier when my wife went with me, but since the accident What do you got there, Tobias?
+- - Oh, I like to keep a nip or two on me during the holidays.
+  - I'm not talking about the booze.
+- - Oh, Percocet.
+  - Sometimes the the pain's just too much.
+- - Alexa, play slow jams playlist.
+  - Playing slow jams playlist.
+- - So this is my apartment.
+  - You know, when we were chatting, I just imagined this super organized.
+- - Well, I I actually did clean up earlier.
+  - No, I like it.
+- - Maybe even you You want a drink?
+  - I have one Tecate.
+- - We can share.
+  - Recline complete Dream too sweet I can't do it not with you Not even with you Maybe never with you So my apartment being organized was part of your fantasy in our chat?
+- - Well, you know, just visualizing.
+  - I guess that's the thing about IRC.
+- - Everyone gets to imagine exactly what they want.
+  - Total control Is that why you do it?
+- - I like how I can control everything.
+  - Over you Total control over you I have this fantasy that I'm the only person from IRC you've ever invited over.
+- - Over you Total control over you You are.
+  - Street wet tonight Just let me just I'll be right back.
+- - Okay.
+  - Maybe even you Stay in bed Stained sheets
+- - My head hurts I repeat
+  - Stop fighting so hard.
+- - You're gonna lose control faster that way.
+  - Give into it.
+- - Give up control.
+  - Realize you'll never be free.
+- - Um Tobias?
+  - What's up?
+- - Hold on now.
+  - Whose car is that?
+- - That was gonna be my question.
+  - Hey.
+- - That's my car.
+  - Oh, I get it now.
+- - Uh, you see, I didn't drive today.
+  - Kenny drove.
+- - He picked me up at Okay, Tobias.
+  - If that is your car, whose car is this?
+- - I have no clue.
+  - Christmas, huh?
+- - Good-bye, Tobias.
+  - Good-bye is short and final.
+- - Hey.
+  - Hey.
+- - Hey.
+  - Look, I know it might not be my place, but I wanna help you.
+- - You wanna help me?
+  - I don't want you to hurt yourself.
+- - Holy crow, what the heck are you talking about?
+  - What do you mean, you're all sad and lonely going on about Jimmy, your suicidal friend.
+- - Jimmy Stewart.
+  - It's a Wonderful Life.
+- - Christmas classic.
+  - Tobias, you just told me good-bye is final.
+- - That is Steinbeck.
+  - He's a national treasure.
+- - Read a book.
+  - Okay, what about the pills?
+- - Okay, you're drunk as shit and you have a bottle of Percocet.
+  - Explain that.
+- - For my wife.
+  - Your wife's dead.
+- - My wife is dead?
+  - Wait you said she had an accident.
+- - She threw her back out when we were putting the Santa on the roof yesterday.
+  - She's in brutal pain.
+- - She can barely move.
+  - Doc wrote a prescription Okay, you fucking scared me.
+- - Hey, Dolly.
+  - Darlene.
+- - Are you okay?
+  - Yeah, I'm okay.
+- - Why wouldn't I be?
+  - You wanna talk about it?
+- - There's nothing to talk about.
+  - You sure?
+- - Yes.
+  - All right.
+- - Have a great night.
+  - Fine.
+- - I have lost absolutely everyone, my boyfriend, my best friend, my parents.
+  - The only one I have left is my brother, who is an asshole that treats me like absolute shit.
+- - But I'm really worried about him right now, and it pisses me off that I'm worried, because I am always worried about him, and he flat-out told me to fuck off.
+  - So why do I bother?
+- - I don't know.
+  - I don't know, I'm afraid this time it's different.
+- - I'm afraid he might be dead.
+  - Okay.
+- - Reception?
+  - No.
+- - Time.
+  - Just realizing it's Christmas.
+- - Can't be much further.
+  - To what?
+- - Town.
+  - Let's stop lying to ourselves.
+- - We're nowhere near town.
+  - We're completely lost.
+- - We just gotta keep moving.
+  - Why?
+- - Even if we magically made it to this Pike's Hollow place, the town is gonna be swarming with Dark Army.
+  - We've gotta try.
+- - You aren't listening to me.
+  - Whatever we're walking towards, it ends with death.
+- - What are you doing?
+  - There's a rock in my shoe.
+- - You honestly don't care about me, do you?
+  - What are you talking about now?
+- - Like why you wear that same hoodie every day.
+  - You don't care.
+- - Did you ever care about me?
+  - I mean, be honest, I can take it.
+- - What is the point of this?
+  - Just answer the question, did you?
+- - Tyrell, you didn't make it easy Just answer the question!
+  - No!
+- - The sound of death.
+  - It's just some stupid animal.
+- - Let's go.
+  - Go without me.
+- - What?
+  - You're giving up?
+- - Yeah.
+  - I think so.
+- - I can't deal with this shit anymore.
+  - Come on.
+- - You stay out here alone, you can be sure it's game over.
+  - You're better than this.
+- - Yeah, maybe I was, but not anymore.
+  - I'm going.
+- - Yeah, go, Elliot.
+  - I will.
+- - Yeah, good.
+  - Cause you don't need me.
+- - You never needed me.
+  - That's the truth, right?
+- - Yeah, that's the truth, I never fucking needed you!
+  - You were only in the way!
+- - If it weren't for you The world would've been saved?
+  - And you would have been the savior?
+- - Is that what you think?
+  - Is that the fantasy I ruined for you?
+- - Stay here, die!
+  - I don't give a fuck about you!
+- - I'm done!
+  - Good!
+- - Look around you!
+  - All signs lead to the same hopeless destination, and the sooner you realize that, the better, for you're so much in your own head that you can't see the truth!
+- - That it's over!
+  - Seems like we're always thinking of ourselves when looking for something that's lost, but we never think much about the lost, whatever, whoever is unable to be found, whether it's a set of keys left somewhere and forgotten, a couple of guys wandering aimlessly in the woods, or someone who's disappeared inside himself.
+- - What if that's what they wanted all along?
+  - Not to be found.
+- - You're wrong.
+  - I don't like being an outsider either.
+- - Maybe I'm just good at hiding it.
+  - Why'd you come back?
+- - Why aren't you going?
+  - I don't know.
+- - I guess it felt wrong to leave you.
+  - Besides, I think you're the only person I know that actually likes me.
+- - You were right about one thing.
+  - I've known that we're gonna die since we walked out of that gas station and the van was gone.
+- - I don't think there's a way out of this for us.
+  - Why do you want to keep going?
+- - My sister.
+  - I have to warn her.
+- - I have to at least try.
+  - I got her into this miss.
+- - Same as last time and the time before that.
+  - I've been a horrible brother.
+- - I treated her like shit.
+  - Least I can do is call her and tell her to run.
+- - Maybe she can still escape.
+  - How much longer do you think until they find us?
+- - I don't know, man.
+  - All right.
+- - Let's keep moving.
+  - Maybe you can still make that phone call.
+- - Dolly.
+  - Dar what?
+- - I know you're worried about your brother, but you gotta worry about you too.
+  - I'm trying.
+- - And I hope he's not dead.
+  - Merry Christmas.
+- - Hi.
+  - Ho, ho, ho.
+- - Santa's home.
+  - Fu
+- - Tyrell.
+  - You okay?
+- - Oh, Jesus Christ.
+  - I'm okay.
+- - We can't just leave him here.
+  - Gotta get you to a hospital, man.
+- - fuck.
+  - No no hospital.
+- - The Dark Army will find me; they'll find you.
+  - No no, we gotta keep moving, man.
+- - We'll find someplace that can help you.
+  - No, I'm done.
+- - Burn the van and all the evidence.
+  - Make sure you take care of Whiterose.
+- - Okay?
+  - Tyrell.
+- - I can't let you die.
+  - I'm just gonna go for a walk.
